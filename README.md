@@ -1,5 +1,5 @@
 # Bersih Text Font
-Bersih Text font is a customized version of Inclusive Sans font, with double-storey "a" rather than single-storey to distinguish it from lowercase "o". The "Bersih" means "Clean" in Indonesian, winch gives a hidden synonym with accessibility and readability. 
+Bersih Text font is a customized version of Inclusive Sans font, with double-storey "a" rather than single-storey to distinguish it from lowercase "o". The "Bersih" means "Clean" in Indonesian, where the name is still related with accessibility and readability as well.
 
 ![Bersih Text Font Preview](BersihTextFont_Preview.png)
 
